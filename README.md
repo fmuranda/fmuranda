@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 👋 About Me
- *🌍Climate Scientist & Certified Sustainability Professional*:
+ - *🌍Climate Scientist & Certified Sustainability Professional*:
 I am currently working as a Group Sustainability Officer at [Econet Wireless Zimbabwe](https://www.econet.co.zw), driving ESG strategy, sustainability reporting, carbon footprint assessments, AI Automation and ISO 50001 energy management. I am skilled in climate systems modeling, carbon accounting, environmental & social safeguards (ESS), and sustainability reporting. I am passionate about leveraging science and data to create resilient, sustainable systems.
 
 ## 🔧 Technical Skills
