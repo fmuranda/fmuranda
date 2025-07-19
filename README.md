@@ -6,7 +6,7 @@ I am a 🌍Climate Scientist and Certified Sustainability Professional currently
 
 ## 🔧 Technical Skills
 **Programming & Tools:**
-- Python (Scientific Stack: *NumPy, Pandas, Xarray,Matplotlib, Seaborn, Dask, Climlab, Climpred, Metpy, Cdo, Xesmf, Pyleoclim, Cftime, Pymannkendall, Rioxarray, Rasterio, Geopandas, Shapely, Cartopy, Hvplot, Scikit-learn*)
+- Python (Scientific Stack: *NumPy, Pandas, Xarray, Matplotlib, Seaborn, Dask, Climlab, Climpred, Metpy, Cdo, Xesmf, Pyleoclim, Cftime, Pymannkendall, Rioxarray, Rasterio, Geopandas, Shapely, Cartopy, Hvplot, Scikit-learn*)
 - Google Earth Engine
 - R
 - Mathematica
