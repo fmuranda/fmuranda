@@ -6,7 +6,7 @@ I am currently working as a Group Sustainability Officer at [Econet Wireless Zim
 
 ## 🔧 Technical Skills
 **Programming & Tools:**
-- Python (Scientific Stack: *NumPy, Pandas, Xarray, numpy, pandas, xarray, matplotlib, seaborn, dask, climlab, climpred, metpy, cdo, xesmf, pyleoclim, cftime, pymannkendall, rioxarray, rasterio, geopandas, shapely, cartopy, hvplot, scikit-learn*)
+- Python (Scientific Stack: *NumPy, Pandas, Xarray,Matplotlib, Seaborn, Dask, Climlab, Climpred, Metpy, Cdo, Xesmf, Pyleoclim, Cftime, Pymannkendall, Rioxarray, Rasterio, Geopandas, Shapely, Cartopy, Hvplot, Scikit-learn*)
 - Google Earth Engine
 - R
 - Mathematica
