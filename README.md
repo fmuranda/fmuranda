@@ -40,3 +40,6 @@ I am currently working as a Group Sustainability Officer at [Econet Wireless Zim
 - Training on GRI Standards for Sustainability Reporting
 - I have authored several articles for the Green Business Gazette the first magazine on sustainability issues in Zimbabwe https://www.gbg.co.zw
 
+## Professional Membership
+- *Certificated Natural Scientist (Cert. Sci. Nat)*  South African Council of Natural Scientific Professions (SACNASP) https://www.sacnasp.org.za/registration
+- *Candidate EAP* Environmental Assessment Practitioners of South Africa (EAPASA) https://registration.eapasa.org/registered-practitioners
