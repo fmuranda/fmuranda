@@ -14,7 +14,7 @@ I am currently working as a Group Sustainability Officer at [Econet Wireless Zim
 - Data visualization
 
 **Climate & Sustainability:**
-- Climate modeling and analysis
+- Climate modeling and scenario analysis
 - Carbon footprint assessment
 - Technical Expert Reviewer - Enhanced Transparency Framework: Paris Agreement
 - GRI Certification [https://certificates.globalreporting.org/profile/fmuranda/wallet)]
