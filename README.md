@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am a *🌍Climate Scientist & Certified Sustainability Professional* currently working as a Group Sustainability Officer at [Econet Wireless Zimbabwe](https://www.econet.co.zw), driving ESG strategy, sustainability reporting, carbon footprint assessments, AI Automation and ISO 50001 energy management. I am skilled in climate systems modeling, carbon accounting, environmental & social safeguards (ESS), and sustainability reporting. I am passionate about leveraging science and data to create resilient, sustainable systems.
+I am a *🌍Climate Scientist & Certified Sustainability Professional* currently working as a Group Sustainability Officer at [Econet Wireless Zimbabwe](https://www.econet.co.zw), driving sustainability strategy, sustainability reporting, carbon footprint assessments, AI Automation and ISO 50001 energy management. I am skilled in climate systems modeling, carbon accounting, environmental & social safeguards (ESS), and sustainability reporting. I am passionate about leveraging science and data to create resilient, sustainable systems.
 
 ## 🔧 Technical Skills
 **Programming & Tools:**
@@ -32,7 +32,7 @@ I am a *🌍Climate Scientist & Certified Sustainability Professional* currently
 
 ## 🌱 Current Projects
 **Spatiotemporal Analysis of Climate Variables Under ENSO Influence in Chimanimani, Zimbabwe (2015–2024)**  
-- Using Python and Google Earth Engine for climate data analysis
+- Using Python and Google Earth Engine for climate data analysisy
 - Investigating ENSO impacts on regional climate patterns
 - Developing predictive models for climate variability
 
