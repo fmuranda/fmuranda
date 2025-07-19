@@ -16,7 +16,7 @@ I am a 🌍Climate Scientist and Certified Sustainability Professional currently
 **Climate & Sustainability:**
 - Climate modeling and scenario analysis
 - Machine Learning & AI in Climate
-- Carbon footprint assessment
+- Carbon Accounting
 - Technical Expert Reviewer - Enhanced Transparency Framework: Paris Agreement
 - GRI Certification [https://certificates.globalreporting.org/profile/fmuranda/wallet]
 - Sustainability Assurance: Accountability ACSAP https://www.accountability.org/standards/training/aa1000-qualified-individuals
