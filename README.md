@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Freedom, a 🌍Climate Scientist and Certified Sustainability Professional currently working as a Group Sustainability Officer at [Econet Wireless Zimbabwe](https://www.econet.co.zw), driving sustainability strategy, sustainability reporting, carbon accounting, AI automation and energy management. I am skilled in climate systems modelling, carbon verification and validation, environmental and social safeguards (ESS), sustainability reporting and assurance. I am passionate about leveraging science and data to create resilient, sustainable systems.
+I am a 🌍Climate Scientist and Certified Sustainability Professional currently working as a Group Sustainability Officer at [Econet Wireless Zimbabwe](https://www.econet.co.zw), driving sustainability strategy, sustainability reporting, carbon accounting, AI automation and energy management. I am skilled in climate systems modelling, carbon verification and validation, environmental and social safeguards (ESS), sustainability reporting and assurance. I am passionate about leveraging science and data to create resilient, sustainable systems.
 
 ## 🔧 Technical Skills
 **Programming & Tools:**
