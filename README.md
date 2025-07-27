@@ -12,7 +12,7 @@ I am a 🌍Climate Scientist and Certified Sustainability Professional currently
 - Data visualization
 
 **Climate & Sustainability:**
-- Climate modeling and scenario analysis
+- Climate modeling and scenario analysis (https://shrtlink.ai/zvX0)
 - Machine Learning & AI in Climate
 - Carbon Accounting
 - Technical Expert Reviewer - Enhanced Transparency Framework: Paris Agreement
