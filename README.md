@@ -35,7 +35,7 @@ I am a 🌍Climate Scientist and Certified Sustainability Professional currently
 - Developing predictive models for climate variability
 
 ## 📚 Publications & Workshops
-- Workshop on " Computational Tools for Climate Science " with https://comptools.climatematch.io/tutorials/intro.html
+- Bootcamp on " Computational Tools for Climate Science " with https://comptools.climatematch.io/tutorials/intro.html
 - Training on GRI Standards for Sustainability Reporting
 - I have authored several articles for the Green Business Gazette the first magazine on sustainability issues in Zimbabwe https://www.gbg.co.zw
 
