@@ -30,7 +30,7 @@ I am a 🌍Climate Scientist and Certified Sustainability Professional currently
 
 ## 🌱 Current Projects
 **Spatiotemporal Analysis of Climate Variables Under ENSO Influence in Chimanimani, Zimbabwe (2015–2024)**  
-- Using Python and Google Earth Engine for climate data analysisy
+- Using Python and Google Earth Engine for climate data analysis
 - Investigating ENSO impacts on regional climate patterns
 - Developing predictive models for climate variability
 
