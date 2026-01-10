@@ -59,20 +59,6 @@ My work sits at the intersection of **climate science, data analytics, governanc
 
 ---
 
-## 📚 Publications and Knowledge Sharing
-
-<details>
-<summary>Selected Publications and Training</summary>
-
-- Computational Tools for Climate Science Bootcamp – ClimateMatch Academy  
-  🔗 [Tutorials](https://comptools.climatematch.io/tutorials/intro.html)  
-- Contributor and sub-editor, Green Business Gazette – Zimbabwe’s first sustainability magazine  
-  🔗 [GBG](https://www.gbg.co.zw)  
-- Author of articles on sustainability, climate risk, and ESG best practices
-</details>
-
----
-
 ## 🧾 Certifications and Recognition
 
 <details>
@@ -112,9 +98,24 @@ Thesis: *Spatiotemporal Analysis of Climate Variables Under ENSO Influence in Zi
 **BSc (Hons) Applied Environmental Science** – University of Zimbabwe (2012)  
 
 ---
+## 📚 Publications and Knowledge Sharing
 
+<details>
+<summary>Selected Publications and Training</summary>
+
+- Computational Tools for Climate Science Bootcamp – ClimateMatch Academy  
+  🔗 [Tutorials](https://comptools.climatematch.io/tutorials/intro.html)  
+- Contributor and sub-editor, Green Business Gazette – Zimbabwe’s first sustainability magazine  
+  🔗 [GBG](https://www.gbg.co.zw)  
+- Author of articles on sustainability, climate risk, and ESG best practices
+</details>
+
+---
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fmuranda)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freedommuranda)  
 [![ORCID](https://img.shields.io/badge/-ORCID-00A14B?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0282-3223)
+
+---
+
