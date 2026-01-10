@@ -67,9 +67,6 @@ My work sits at the intersection of **climate science, data analytics, governanc
 - [![ACSAP](https://img.shields.io/badge/ACSAP-View-4CAF50?style=flat-square)](https://www.accountability.org/standards/training/aa1000-qualified-individuals)  
   Associate Certified Sustainability Assurance Practitioner – AccountAbility  
 
-- [![AA1000 Qualified Individual](https://img.shields.io/badge/AA1000_Qualified-View-4CAF50?style=flat-square)](https://www.accountability.org/standards/training/aa1000-qualified-individuals)  
-  AA1000 Qualified Individual  
-
 - [![GRI Sustainability Reporting](https://img.shields.io/badge/GRI_Sustainability_Reporting-View-003399?style=flat-square)](https://certificates.globalreporting.org/profile/fmuranda/wallet)  
   GRI Certified Sustainability Reporting Professional  
 
