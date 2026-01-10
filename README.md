@@ -78,13 +78,27 @@ My work sits at the intersection of **climate science, data analytics, governanc
 <details>
 <summary>Professional Certifications</summary>
 
-- [![AA1000](https://img.shields.io/badge/-AA1000-4CAF50?style=flat-square)](https://www.accountability.org/standards/training/aa1000-qualified-individuals)
-- Certified Carbon Footprint Analyst
-- Certified ISO 50001 Energy Management Practitioner
-- Certified Internal Auditor (ISO 9001, ISO 14001, ISO 45001)
-- UNFCCC Technical Expert Reviewer – Paris Agreement
-- IFC Environmental & Social Fundamentals
+- [![ACSAP](https://img.shields.io/badge/ACSAP-View-4CAF50?style=flat-square)](https://www.accountability.org/standards/training/aa1000-qualified-individuals)  
+  Associate Certified Sustainability Assurance Practitioner – AccountAbility  
+
+- [![AA1000 Qualified Individual](https://img.shields.io/badge/AA1000_Qualified-View-4CAF50?style=flat-square)](https://www.accountability.org/standards/training/aa1000-qualified-individuals)  
+  AA1000 Qualified Individual  
+
+- [![GRI Sustainability Reporting](https://img.shields.io/badge/GRI_Sustainability_Reporting-View-003399?style=flat-square)](https://certificates.globalreporting.org/profile/fmuranda/wallet)  
+  GRI Certified Sustainability Reporting Professional  
+
+- [![ClimateMatch Academy](https://img.shields.io/badge/ClimateMatch_Academy-View-FF6F61?style=flat-square)](https://portal.neuromatchacademy.org/certificate/a2500af5-ce3d-4a5f-a7cf-66aa024ae8e4)  
+  Computational Tools for Climate Science Bootcamp  
+
+- [![UNFCCC Roster of Experts](https://img.shields.io/badge/UNFCCC_Roster_of_Experts-View-007FFF?style=flat-square&logo=earth-americas&logoColor=white)](https://www4.unfccc.int/sites/roestaging/Pages/RosterOfExperts.aspx)  
+  UNFCCC Roster of Experts  
+
+- Certified Carbon Footprint Analyst  
+- Certified ISO 50001 Energy Management Practitioner  
+- Certified Internal Auditor (ISO 9001, ISO 14001, ISO 45001)  
+- IFC Environmental & Social Fundamentals  
 - Green Climate Fund (GCF) Proposal Development (SAP)
+
 </details>
 
 ---
