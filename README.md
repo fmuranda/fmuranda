@@ -2,7 +2,7 @@
 
 🌍 **Climate Scientist | Sustainability and ESG Strategy Leader | Climate Risk and Carbon Specialist**  
 
-I am a results-driven Climate Scientist and Certified Sustainability Professional with 5+ years of experience in **climate modelling, ESG strategy, and sustainability reporting** across multi-sector organisations. I currently serve as **Group Sustainability Officer at Econet Wireless Zimbabwe**, supporting telecoms, fintech, edutech, mobility, and renewable energy businesses.  
+I am a results-driven Climate Scientist and Certified Sustainability Professional with 5+ years of experience in **Sustainability, ESG strategy, and climate risk analysis** across multi-sector organisations. I currently serve as **Group Sustainability Officer at Econet Wireless Zimbabwe**, supporting telecoms, fintech, edutech, mobility, and renewable energy businesses.  
 
 My work sits at the intersection of **climate science, data analytics, governance, and digital innovation**, where I leverage **scientific modelling, carbon accounting, AI-driven automation, and energy management** to drive resilient, future-ready systems aligned with global sustainability frameworks.  
 
